@@ -21,35 +21,51 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueensPuzzle", "Recursion a
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Combinatorial Problems", "Combinatorial Problems", "{C71EDC8E-55BC-4A1F-A3CF-188B10B8D2B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithoutRepetition", "CombinatorialProblems\PermutationsWithoutRepetition\PermutationsWithoutRepetition.csproj", "{C0C8B3EE-5785-4F3F-A1D7-4358DA6E7FC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermutationsWithoutRepetition", "CombinatorialProblems\PermutationsWithoutRepetition\PermutationsWithoutRepetition.csproj", "{C0C8B3EE-5785-4F3F-A1D7-4358DA6E7FC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationsWithRepetition", "CombinatorialProblems\PermutationsWithRepetition\PermutationsWithRepetition\PermutationsWithRepetition.csproj", "{DB2C854A-E96E-4C86-A0CA-E91BDAB59127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PermutationsWithRepetition", "CombinatorialProblems\PermutationsWithRepetition\PermutationsWithRepetition\PermutationsWithRepetition.csproj", "{DB2C854A-E96E-4C86-A0CA-E91BDAB59127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariationsWithoutRepetition", "CombinatorialProblems\VariationsWithoutRepetition\VariationsWithoutRepetition\VariationsWithoutRepetition.csproj", "{07E8B61F-777D-46BB-A976-74C4E1A6D246}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariationsWithoutRepetition", "CombinatorialProblems\VariationsWithoutRepetition\VariationsWithoutRepetition\VariationsWithoutRepetition.csproj", "{07E8B61F-777D-46BB-A976-74C4E1A6D246}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariationsWithRepetition", "CombinatorialProblems\VariationsWithRepetition\VariationsWithRepetition\VariationsWithRepetition.csproj", "{C9F2B763-61AC-447A-A021-709436C8FF7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariationsWithRepetition", "CombinatorialProblems\VariationsWithRepetition\VariationsWithRepetition\VariationsWithRepetition.csproj", "{C9F2B763-61AC-447A-A021-709436C8FF7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetition", "CombinatorialProblems\CombinationsWithoutRepetition\CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{3D7DD653-7A0C-4DD9-A5DE-18025FA8AA23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithoutRepetition", "CombinatorialProblems\CombinationsWithoutRepetition\CombinationsWithoutRepetition\CombinationsWithoutRepetition.csproj", "{3D7DD653-7A0C-4DD9-A5DE-18025FA8AA23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetition", "CombinatorialProblems\CombinationsWithRepetition\CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{126D750D-8D6E-4FCF-8E8A-FA05515F4F76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithRepetition", "CombinatorialProblems\CombinationsWithRepetition\CombinationsWithRepetition\CombinationsWithRepetition.csproj", "{126D750D-8D6E-4FCF-8E8A-FA05515F4F76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NChooseKCount", "CombinatorialProblems\NChooseKCount\NChooseKCount\NChooseKCount.csproj", "{34617F56-B1C8-4B84-A95D-615C2AACDD56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NChooseKCount", "CombinatorialProblems\NChooseKCount\NChooseKCount\NChooseKCount.csproj", "{34617F56-B1C8-4B84-A95D-615C2AACDD56}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecursionandCombinatorialProblems", "RecursionandCombinatorialProblems", "{91B8585C-084E-4EC5-AA31-30685DB47093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArray", "RecursionandCombinatorialProblems\ReverseArray\ReverseArray.csproj", "{4646474F-C992-43FB-A005-3F3D15AD7BC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArray", "RecursionandCombinatorialProblems\ReverseArray\ReverseArray.csproj", "{4646474F-C992-43FB-A005-3F3D15AD7BC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArrayWithRecursion", "RecursionandCombinatorialProblems\ReverseArrayWithRecursion\ReverseArrayWithRecursion\ReverseArrayWithRecursion.csproj", "{05EFD989-AA9F-44CC-8FA3-654F2FA844B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArrayWithRecursion", "RecursionandCombinatorialProblems\ReverseArrayWithRecursion\ReverseArrayWithRecursion\ReverseArrayWithRecursion.csproj", "{05EFD989-AA9F-44CC-8FA3-654F2FA844B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "RecursionandCombinatorialProblems\NestedLoopToRecursion\NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{7B65AD8E-FFFC-4AE8-88B7-4B3F82C82BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoopsToRecursion", "RecursionandCombinatorialProblems\NestedLoopToRecursion\NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{7B65AD8E-FFFC-4AE8-88B7-4B3F82C82BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithRepetitions", "RecursionandCombinatorialProblems\CombinationsWithRepetition\CombinationsWithRepetitions\CombinationsWithRepetitions.csproj", "{EF77193F-2CCD-4D37-8CF6-8849A228092A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithRepetitions", "RecursionandCombinatorialProblems\CombinationsWithRepetition\CombinationsWithRepetitions\CombinationsWithRepetitions.csproj", "{EF77193F-2CCD-4D37-8CF6-8849A228092A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombinationsWithoutRepetitions", "RecursionandCombinatorialProblems\CombinationsWithoutRepetition\CombinationsWithoutRepetitions\CombinationsWithoutRepetitions.csproj", "{C423C220-75D2-44A8-A4D5-3E9F34052E69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinationsWithoutRepetitions", "RecursionandCombinatorialProblems\CombinationsWithoutRepetition\CombinationsWithoutRepetitions\CombinationsWithoutRepetitions.csproj", "{C423C220-75D2-44A8-A4D5-3E9F34052E69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "RecursionandCombinatorialProblems\Cinema\Cinema\Cinema.csproj", "{E4C2353C-E866-4197-A13B-3486E1BB2305}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "RecursionandCombinatorialProblems\Cinema\Cinema\Cinema.csproj", "{E4C2353C-E866-4197-A13B-3486E1BB2305}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTeams", "RecursionandCombinatorialProblems\SchoolTeams\SchoolTeams\SchoolTeams.csproj", "{59E407E9-E8A5-4A5E-83A4-9D113CA21053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolTeams", "RecursionandCombinatorialProblems\SchoolTeams\SchoolTeams\SchoolTeams.csproj", "{59E407E9-E8A5-4A5E-83A4-9D113CA21053}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchingSortingAndGreedy", "SearchingSortingAndGreedy", "{BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "SearchingSortingGreedyAlgorithms\BinarySearch\BinarySearch.csproj", "{635CB0BA-BB75-49BC-BA86-582F0C170D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SearchingSortingGreedyAlgorithms\SelectionSort\SelectionSort.csproj", "{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{99107E02-2FCA-45B9-9C5E-513F36CBB154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "SearchingSortingGreedyAlgorithms\InsertionSort\InsertionSort.csproj", "{64872C45-BA61-4973-A7B1-19586B19EFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "SearchingSortingGreedyAlgorithms\QuickSort\QuickSort.csproj", "{D351156D-46D2-436F-86BF-77959EF33DBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "SearchingSortingGreedyAlgorithms\MergeSort\MergeSort.csproj", "{B451DA27-14EF-4B9F-B67F-430566C499D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "SearchingSortingGreedyAlgorithms\SumOfCoins\SumOfCoins.csproj", "{0D83FB5D-B515-4065-B329-B25500107445}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +157,34 @@ Global
 		{59E407E9-E8A5-4A5E-83A4-9D113CA21053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E407E9-E8A5-4A5E-83A4-9D113CA21053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E407E9-E8A5-4A5E-83A4-9D113CA21053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635CB0BA-BB75-49BC-BA86-582F0C170D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635CB0BA-BB75-49BC-BA86-582F0C170D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635CB0BA-BB75-49BC-BA86-582F0C170D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635CB0BA-BB75-49BC-BA86-582F0C170D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99107E02-2FCA-45B9-9C5E-513F36CBB154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99107E02-2FCA-45B9-9C5E-513F36CBB154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99107E02-2FCA-45B9-9C5E-513F36CBB154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99107E02-2FCA-45B9-9C5E-513F36CBB154}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64872C45-BA61-4973-A7B1-19586B19EFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64872C45-BA61-4973-A7B1-19586B19EFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64872C45-BA61-4973-A7B1-19586B19EFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64872C45-BA61-4973-A7B1-19586B19EFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D351156D-46D2-436F-86BF-77959EF33DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D351156D-46D2-436F-86BF-77959EF33DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D351156D-46D2-436F-86BF-77959EF33DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D351156D-46D2-436F-86BF-77959EF33DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B451DA27-14EF-4B9F-B67F-430566C499D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B451DA27-14EF-4B9F-B67F-430566C499D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B451DA27-14EF-4B9F-B67F-430566C499D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B451DA27-14EF-4B9F-B67F-430566C499D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D83FB5D-B515-4065-B329-B25500107445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D83FB5D-B515-4065-B329-B25500107445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D83FB5D-B515-4065-B329-B25500107445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D83FB5D-B515-4065-B329-B25500107445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -167,6 +211,13 @@ Global
 		{C423C220-75D2-44A8-A4D5-3E9F34052E69} = {91B8585C-084E-4EC5-AA31-30685DB47093}
 		{E4C2353C-E866-4197-A13B-3486E1BB2305} = {91B8585C-084E-4EC5-AA31-30685DB47093}
 		{59E407E9-E8A5-4A5E-83A4-9D113CA21053} = {91B8585C-084E-4EC5-AA31-30685DB47093}
+		{635CB0BA-BB75-49BC-BA86-582F0C170D3D} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{99107E02-2FCA-45B9-9C5E-513F36CBB154} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{64872C45-BA61-4973-A7B1-19586B19EFEE} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{D351156D-46D2-436F-86BF-77959EF33DBE} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{B451DA27-14EF-4B9F-B67F-430566C499D7} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{0D83FB5D-B515-4065-B329-B25500107445} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {12DC8E9D-4628-4594-93FC-B7931ED9C68F}
