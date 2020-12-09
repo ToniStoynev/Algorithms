@@ -53,19 +53,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolTeams", "Recursionand
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchingSortingAndGreedy", "SearchingSortingAndGreedy", "{BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "SearchingSortingGreedyAlgorithms\BinarySearch\BinarySearch.csproj", "{635CB0BA-BB75-49BC-BA86-582F0C170D3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "SearchingSortingGreedyAlgorithms\BinarySearch\BinarySearch.csproj", "{635CB0BA-BB75-49BC-BA86-582F0C170D3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SearchingSortingGreedyAlgorithms\SelectionSort\SelectionSort.csproj", "{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelectionSort", "SearchingSortingGreedyAlgorithms\SelectionSort\SelectionSort.csproj", "{E04CACBA-FE39-4AD4-817B-ED4DF9FA08E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{99107E02-2FCA-45B9-9C5E-513F36CBB154}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "SearchingSortingGreedyAlgorithms\InsertionSort\InsertionSort.csproj", "{64872C45-BA61-4973-A7B1-19586B19EFEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertionSort", "SearchingSortingGreedyAlgorithms\InsertionSort\InsertionSort.csproj", "{64872C45-BA61-4973-A7B1-19586B19EFEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "SearchingSortingGreedyAlgorithms\QuickSort\QuickSort.csproj", "{D351156D-46D2-436F-86BF-77959EF33DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "SearchingSortingGreedyAlgorithms\QuickSort\QuickSort.csproj", "{D351156D-46D2-436F-86BF-77959EF33DBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "SearchingSortingGreedyAlgorithms\MergeSort\MergeSort.csproj", "{B451DA27-14EF-4B9F-B67F-430566C499D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeSort", "SearchingSortingGreedyAlgorithms\MergeSort\MergeSort.csproj", "{B451DA27-14EF-4B9F-B67F-430566C499D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "SearchingSortingGreedyAlgorithms\SumOfCoins\SumOfCoins.csproj", "{0D83FB5D-B515-4065-B329-B25500107445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfCoins", "SearchingSortingGreedyAlgorithms\SumOfCoins\SumOfCoins.csproj", "{0D83FB5D-B515-4065-B329-B25500107445}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GraphTheory", "GraphTheory", "{1A640699-9CCC-4273-B737-01395AAE9CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "GraphTheory\DFS\DFS.csproj", "{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "GraphTheory\BFS\BFS.csproj", "{B4DB0487-D73F-463A-B47C-48E0AF12A559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -185,6 +191,14 @@ Global
 		{0D83FB5D-B515-4065-B329-B25500107445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D83FB5D-B515-4065-B329-B25500107445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D83FB5D-B515-4065-B329-B25500107445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DB0487-D73F-463A-B47C-48E0AF12A559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DB0487-D73F-463A-B47C-48E0AF12A559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DB0487-D73F-463A-B47C-48E0AF12A559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DB0487-D73F-463A-B47C-48E0AF12A559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -218,6 +232,8 @@ Global
 		{D351156D-46D2-436F-86BF-77959EF33DBE} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
 		{B451DA27-14EF-4B9F-B67F-430566C499D7} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
 		{0D83FB5D-B515-4065-B329-B25500107445} = {BD8AC141-4D3C-4263-93D4-286E2B3A0EAB}
+		{911FCBD9-74D7-41D0-B23D-40FBCF6B20B0} = {1A640699-9CCC-4273-B737-01395AAE9CD0}
+		{B4DB0487-D73F-463A-B47C-48E0AF12A559} = {1A640699-9CCC-4273-B737-01395AAE9CD0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {12DC8E9D-4628-4594-93FC-B7931ED9C68F}
